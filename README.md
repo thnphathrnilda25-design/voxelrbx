@@ -29,3 +29,5 @@ Download [`voxelrbx.skill`](./voxelrbx.skill) and import it through your AI plat
 ## Example prompt
 
 > Create a dragon companion in the VoxelRBX style. Give it a clear silhouette, balanced proportions, layered wings, and subtle studs.
+
+##Claude only
